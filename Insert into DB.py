@@ -1,3 +1,4 @@
+# STEP : 2
 import mysql.connector
 from mysql.connector import Error
 
